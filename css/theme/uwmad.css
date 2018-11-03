@@ -316,8 +316,8 @@ body {
 body:after {
   content: url(images/UW_crest_small.png);
   position: fixed;
-  bottom: 0px;
-  left: 0px; }
+  bottom: 0.5em;
+  left: 0.5em; }
 
 /*********************************************
  * SLIDE NUMBER
