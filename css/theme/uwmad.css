@@ -315,11 +315,9 @@ body {
 
 body:after {
   content: url(images/UW_crest_small.png);
-  width: auto;
-  height: auto;
   position: fixed;
   bottom: 0px;
-  left: opx; }
+  left: 0px; }
 
 /*********************************************
  * SLIDE NUMBER
@@ -338,12 +336,12 @@ body:after {
   padding: 5px;
 }
 
-    
+
 /*********************************************
  * Custom Classes
  *********************************************/
 .redBlock {
-    background-color: #9b0000;
+    background-color: rgb(155, 0, 0, 0.5);
 }
 
 .reveal .uwtable {
@@ -360,4 +358,3 @@ body:after {
     text-align: center;
     vertical-align: middle;
 }
-    
