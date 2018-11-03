@@ -352,6 +352,7 @@ body:after {
 
 .reveal table.uwtable td, tr {
     border: none;
+    border-radius: 10px;
 }
 
 .reveal table.uwtable td {
