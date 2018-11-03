@@ -339,3 +339,24 @@ body:after {
 }
 
     
+/*********************************************
+ * Custom Classes
+ *********************************************/
+.redBlock {
+    background-color: #9b0000;
+}
+
+.reveal .uwtable {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.reveal table.uwtable td, tr {
+    border: none;
+}
+
+.reveal table.uwtable td {
+    text-align: center;
+}
+    
