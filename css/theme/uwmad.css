@@ -358,5 +358,6 @@ body:after {
 
 .reveal table.uwtable td {
     text-align: center;
+    vertical-align: middle;
 }
     
