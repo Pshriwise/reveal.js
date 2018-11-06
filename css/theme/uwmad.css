@@ -231,7 +231,7 @@ body {
  * IMAGES
  *********************************************/
 .reveal section img {
-  margin: 15px 0px;
+  margin: 10px 0px;
   background: rgba(255, 255, 255, 0.12);
   border: 0; }
 
@@ -358,4 +358,8 @@ body:after {
 .reveal table.uwtable td {
     text-align: center;
     vertical-align: middle;
+}
+
+.reveal section img.soloImage {
+    height: 450;
 }
